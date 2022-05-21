@@ -34,9 +34,12 @@ section{
     margin-bottom: 5px;
 }
 .main-footer-copyright{
-    background-color: #e2edff;
+    background-color: #e7eef8;
     color: rgb(19, 18, 18);
 }
 .main-sosial-media img{
     max-width: 65px;
+}
+.bagian-contak{
+    background-color: #fdfdff;
 }
