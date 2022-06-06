@@ -43,3 +43,40 @@ section{
 .bagian-contak{
     background-color: #fdfdff;
 }
+.main-reting{
+    background-color: rgb(143, 197, 241);
+}
+.main-grey img{
+    max-width: 250px;
+}
+.main-blog-info img{
+    width: 50px;
+    border-radius: 50%;
+    float: left;
+}
+.mian-blog-info{
+    color: #666;
+    position: relative;
+}
+.main-blog-info a {
+    padding-right: 15px;
+    color: #666;
+    text-decoration: none;
+}
+.main-blog-info a:hover{
+    color: none;
+}
+#blog .main-blog-info span {
+    font-size: 14px;
+    padding-left: 15px;
+
+}
+#blog a{
+    text-decoration: none;
+    color: #666;
+}
+#blog a:hover{
+
+    color:none;
+}
+
