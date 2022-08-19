@@ -1,6 +1,10 @@
 .jumbotron{
  padding-top: 6rem;
-    background-color: #e2edff;
+    background-color: none;
+    border-radius: 10rem;
+}
+.navbar{
+    background-color: #41679c;
 }
 #projecsts{
     background-color: #e2edff;
@@ -13,6 +17,12 @@
     color: rgb(14, 13, 13);
     margin-bottom: 15px;
 
+}
+.projecsts img{
+    border-radius: 25rem;
+}
+.projecsts card-text{
+    border-radius: 25rem;
 }
 section{
     padding-top: 5rem;
@@ -36,6 +46,7 @@ section{
 .main-footer-copyright{
     background-color: #e7eef8;
     color: rgb(19, 18, 18);
+    border-radius: 20rem;
 }
 .main-sosial-media img{
     max-width: 65px;
@@ -44,7 +55,7 @@ section{
     background-color: #fdfdff;
 }
 .main-reting{
-    background-color: rgb(143, 197, 241);
+    background-color: #e7eef8;
 }
 .main-grey img{
     max-width: 250px;
@@ -81,4 +92,17 @@ section{
 }
 .masukan{
     background-color: #18a6d1;
+}
+.main-btn a:hover{
+    color: #18a6d1;
+}
+.testi{
+    background-color: #e7eef8;
+    border-radius: 12rem;
+}
+.main-btn{
+    background-color: #fdfdff;
+}
+.masukan{
+    background-color: #e7eef8;
 }
