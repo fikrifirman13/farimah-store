@@ -80,7 +80,6 @@ section{
 #blog .main-blog-info span {
     font-size: 14px;
     padding-left: 15px;
-
 }
 #blog a{
     text-decoration: none;
@@ -91,7 +90,7 @@ section{
     color:none;
 }
 .masukan{
-    background-color: #18a6d1;
+    background-color: #e7eef8;
 }
 .main-btn a:hover{
     color: #18a6d1;
@@ -102,7 +101,4 @@ section{
 }
 .main-btn{
     background-color: #fdfdff;
-}
-.masukan{
-    background-color: #e7eef8;
 }
